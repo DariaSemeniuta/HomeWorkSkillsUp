@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
 /**
- * Created by Daria on 18.04.2016.
+ * Created by Daria
  */
 public class TestSkillsUp extends BaseTest{
     public String startPage = "http://skillsup.ua/";
