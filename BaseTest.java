@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 /**
- * Created by Daria on 18.04.2016.
+ * Created by Daria 
  */
 public class BaseTest extends TestCase {
     protected static WebDriver driver;
